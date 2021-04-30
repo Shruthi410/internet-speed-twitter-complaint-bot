@@ -5,8 +5,8 @@ from time import sleep
 PROMISED_DOWN = 150
 PROMISED_UP = 10
 CHROME_DRIVER_PATH = "C:/Development/chromedriver.exe"
-TWITTER_EMAIL = "shruthid41098@gmail.com"
-TWITTER_PASSWORD = "Shruthitwitter123"
+TWITTER_EMAIL = "YOUR TWITTER EMAIL"
+TWITTER_PASSWORD = "YOUR TWITTER PASSWORD"
 
 
 class InternetSpeedTwitterBot:
